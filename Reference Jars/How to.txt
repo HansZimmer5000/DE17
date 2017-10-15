@@ -1,0 +1,8 @@
+To see the source code of the reference jars we need the "jd-gui-1.4.0" jar.
+
+1. Start jd-gui
+	A. Open a console in the same folder the jd-gui jar is in. 
+	B. Start jd-gui with "java -jar jd-gui-1.4.0.jar"
+2. See the Code
+	A. After it started up you can just drag & drop the other jars into the free space.
+	B. Now you can see the code.
